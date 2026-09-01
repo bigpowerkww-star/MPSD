@@ -1,0 +1,7 @@
+streamlit>=1.62.0    # metric delta_color 에 색 이름 직접 지정 (증가=빨강/감소=파랑)
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.0
+plotly>=5.22.0
+XlsxWriter>=3.2.0
+pytest>=8.0.0
